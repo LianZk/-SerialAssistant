@@ -1,0 +1,111 @@
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\seriaAssistant\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext 还不能用。。。不知道为啥\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.application
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\瞎改\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.application
+D:\C#编译出来的玩意\serialAssistant richtext版本，待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\serialAssistant richtext版本，待测试\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.application
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\瞎改\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.application
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.config
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.application
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.exe
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\seriaAssistant.pdb
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.dll
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\bin\Debug\Newtonsoft.Json.xml
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.csprojResolveAssemblyReference.cache
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\MainWindow.g.cs
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\App.g.cs
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.cache
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant_MarkupCompile.lref
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\MainWindow.baml
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.g.resources
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.Properties.Resources.resources
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.csproj.GenerateResource.Cache
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.exe.manifest
+D:\C#编译出来的玩意\serialAssistant 待测试\seriaAssistant\obj\Debug\seriaAssistant.application

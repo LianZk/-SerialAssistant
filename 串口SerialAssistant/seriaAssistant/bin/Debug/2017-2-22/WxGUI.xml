@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration ver="15F37CDD21BFDEE29F5FFD312D096FD4">
+	<appSettings auto-startsampling="true" auto-check-offline="true" auto-locating="true" view-more="true">
+		<sampling type="1">
+			<transferItem addr="192.168.1.118" port="44333" type="udp" data="2" />
+		</sampling>
+		<control port="44332" />
+		<anchoroffline timeout="5000" />
+		<tagoffline timeout="1000" />
+	</appSettings>
+	<txlist>
+		<transferItem addr="192.168.1.111" port="55566" type="UDP" data="1" />
+		<transferItem addr="192.168.1.119" port="45556" type="UDP" data="16777216" />
+	</txlist>
+	<taglist>
+		<deviceItem id="2001" name="2001" icon="" class="0" pos=",,0" more="1000" />
+	</taglist>
+	<groups>
+		<group id="0" mode="1">
+			<locatorSettings class="3" default-tag-height="1" multicalculate="1" />
+			<outFilterSettings class="5" filter-count="3" />
+		</group>
+	</groups>
+	<anchorlist>
+		<deviceItem id="13e2" name="13e2" icon="" class="0" pos="0,0,285" more="," />
+		<deviceItem id="13ea" name="13ea" icon="" class="0" pos="420,0,285" more="," />
+		<deviceItem id="13f8" name="13f8" icon="" class="0" pos="420,600,285" more="," />
+		<deviceItem id="3013" name="3013" icon="" class="0" pos="0,600,285" more="," />
+	</anchorlist>
+	<userdatalist>
+		<userdata id="2001" src="44333" />
+	</userdatalist>
+	<viewerSettings>
+		<mapviewer grid="50" scale="100" ruler="0" logrange="0" backcolor="ffffff" />
+		<refresh interval="1000" realtime-tag="true" show-anchor="3" show-points="0" view-more="17473" />
+	</viewerSettings>
+</configuration>
